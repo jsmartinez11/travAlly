@@ -1,5 +1,7 @@
 
-                                                TravAlly - HACK HARVARD 
+TravAlly - HACK HARVARD 
+Hackathon Project
+
 Inspiration.
 
 We were inspired by the idea of having a travel buddy for someone going to a new location, hence came up with travAlly. We felt as it it was difficult for people to travel to places, especially if they do not have experience there.
