@@ -1,5 +1,5 @@
 
-                                                   TravAlly - HACK HARVARD 
+                    TravAlly - HACK HARVARD 
 Hackathon Project
 
 Inspiration.
